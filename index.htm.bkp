@@ -1568,234 +1568,234 @@ lang=&quot;en&quot;&gt;<o:p></o:p></span></p>
 
 <p class=MsoNormal>&lt;head&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;meta
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;meta
 charset=&quot;UTF-8&quot;&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;meta
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;meta
 name=&quot;viewport&quot; content=&quot;width=device-width,
 initial-scale=1.0&quot;&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>   
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â 
 </span>&lt;title&gt;Design2Signoff Semiconductor&lt;/title&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;style&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;style&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>body {<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>body {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>font-family: Arial, sans-serif;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span>margin: 0;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>margin: 0;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span>padding:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>padding:
 0;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>background-<span class=SpellE>color</span>: #f4f4f4;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>}<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>header {<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>header {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>background-<span class=SpellE>color</span>: #002244;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span><span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span><span
 class=SpellE>color</span>: white;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span>padding:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>padding:
 20px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>text-align: <span class=SpellE>center</span>;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span>font-size:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>font-size:
 24px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>}<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>nav {<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>nav {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>text-align: <span class=SpellE>center</span>;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>background: #004488;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span>padding:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>padding:
 10px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>}<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>nav a {<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>nav a {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span><span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span><span
 class=SpellE>color</span>: white;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>text-decoration: none;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span>margin: 0
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>margin: 0
 15px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span><span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span><span
 lang=FR style='mso-ansi-language:FR'>font-size: 18px;<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'><span
-style='mso-spacerun:yes'>        </span>}<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>}<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'><span
-style='mso-spacerun:yes'>        </span>.container {<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>.container {<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'><span
-style='mso-spacerun:yes'>            </span>width: 80%;<o:p></o:p></span></p>
+style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>width: 80%;<o:p></o:p></span></p>
 
 <p class=MsoNormal><span lang=FR style='mso-ansi-language:FR'><span
-style='mso-spacerun:yes'>            </span></span>margin: auto;<o:p></o:p></p>
+style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span></span>margin: auto;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span>padding:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>padding:
 20px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>background: white;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>box-shadow: 0px <span class=SpellE>0px</span> 10px #ccc;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>}<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>footer {<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>footer {<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>background: #002244;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span><span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span><span
 class=SpellE>color</span>: white;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>text-align: <span class=SpellE>center</span>;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>            </span>padding:
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â  </span>padding:
 10px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>margin-top: 20px;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>}<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>}<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;/style&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;/style&gt;<o:p></o:p></p>
 
 <p class=MsoNormal>&lt;/head&gt;<o:p></o:p></p>
 
 <p class=MsoNormal>&lt;body&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;header&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;header&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>Design2Signoff
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>Design2Signoff
 Semiconductor <span class=SpellE>Pvt.</span> Ltd.<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;/header&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;/header&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;nav&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;nav&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>&lt;a <span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>&lt;a <span
 class=SpellE>href</span>=&quot;#home&quot;&gt;Home&lt;/a&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>&lt;a <span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>&lt;a <span
 class=SpellE>href</span>=&quot;#about&quot;&gt;About Us&lt;/a&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>&lt;a <span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>&lt;a <span
 class=SpellE>href</span>=&quot;#services&quot;&gt;Services&lt;/a&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>&lt;a <span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>&lt;a <span
 class=SpellE>href</span>=&quot;#contact&quot;&gt;Contact&lt;/a&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;/nav&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;/nav&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span><o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span><o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;div
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;div
 class=&quot;container&quot; id=&quot;home&quot;&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>       
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â 
 </span>&lt;h2&gt;Welcome to Design2Signoff Semiconductor&lt;/h2&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>       
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â 
 </span>&lt;p&gt;Providing top-notch manpower outsourcing and consultancy
 services for VLSI SoC design companies.&lt;/p&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;/div&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;/div&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span><o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span><o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;div
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;div
 class=&quot;container&quot; id=&quot;about&quot;&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>       
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â 
 </span>&lt;h2&gt;About Us&lt;/h2&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>       
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â 
 </span>&lt;p&gt;Founded in 2021 and based in Bengaluru, we specialize in
 outsourcing and consultancy for semiconductor design companies.&lt;/p&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;/div&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;/div&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span><o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span><o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;div
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;div
 class=&quot;container&quot; id=&quot;services&quot;&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>&lt;h2&gt;Our
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>&lt;h2&gt;Our
 Services&lt;/h2&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>&lt;<span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>&lt;<span
 class=SpellE>ul</span>&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>&lt;li&gt;VLSI Design Consultancy&lt;/li&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>&lt;li&gt;Manpower Outsourcing&lt;/li&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>           
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â Â Â Â Â 
 </span>&lt;li&gt;Project-Based Support&lt;/li&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>&lt;/<span
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>&lt;/<span
 class=SpellE>ul</span>&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;/div&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;/div&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span><o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span><o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;div
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;div
 class=&quot;container&quot; id=&quot;contact&quot;&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>       
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â 
 </span>&lt;h2&gt;Contact Us&lt;/h2&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>       
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â 
 </span>&lt;p&gt;&lt;strong&gt;Address:&lt;/strong&gt; No. 04 Panchavati, 3rd
 Floor, 6th Cross, <span class=SpellE>Parappana</span> Agrahara Main Road,
 Electronic City Post, Bengaluru, Karnataka, 560100&lt;/p&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>       
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â 
 </span>&lt;p&gt;&lt;strong&gt;Email:&lt;/strong&gt;
 info@design2signoff.com&lt;/p&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>       
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â 
 </span>&lt;p&gt;&lt;strong&gt;Phone:&lt;/strong&gt; +91-XXXXXXXXXX&lt;/p&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;/div&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;/div&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span><o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span><o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;footer&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;footer&gt;<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>        </span>&amp;copy;
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â Â Â Â Â  </span>&amp;copy;
 2025 Design2Signoff Semiconductor <span class=SpellE>Pvt.</span> Ltd. All
 Rights Reserved.<o:p></o:p></p>
 
-<p class=MsoNormal><span style='mso-spacerun:yes'>    </span>&lt;/footer&gt;<o:p></o:p></p>
+<p class=MsoNormal><span style='mso-spacerun:yes'>Â Â Â  </span>&lt;/footer&gt;<o:p></o:p></p>
 
 <p class=MsoNormal>&lt;/body&gt;<o:p></o:p></p>
 
